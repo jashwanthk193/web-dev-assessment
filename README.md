@@ -21,7 +21,7 @@ novel-office-project/
 
 1. **Clone the repository** or **Download the ZIP**:
    ```bash
-   git clone https://github.com/your-username/novel-office-project.git
+   git clone https://github.com/jashwanthk193/web-dev-assessment.git
    ```
    Or download the ZIP from the **Releases** section.
 
